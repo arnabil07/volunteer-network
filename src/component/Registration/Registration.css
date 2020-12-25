@@ -1,0 +1,30 @@
+.register-form{
+    margin: 30px 100px;
+    background-color:  #FFFFFF;;
+    border:1px solid grey;
+    border-radius:5px;
+    margin-left:30%;
+    margin-top:5%;
+    width: 40%;
+    padding: 40px;
+    width: 400px;
+    background-color:white;
+}
+.register-form input{
+    display: block;
+    margin-top:20px;
+    padding: 5px;
+    /* border: 1px solid grey; */
+    border-radius:5px;
+    width:100%;
+    border:none;
+    border-bottom: 1px solid grey;
+}
+.error{
+    color:red;
+}
+.logo img{
+    width:200px;
+    margin:0 auto;
+
+}

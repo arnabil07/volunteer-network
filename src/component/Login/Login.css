@@ -1,0 +1,23 @@
+.login-form{
+    width:500px;
+    margin-left: 30%;
+    margin-top:5%;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px grey;
+    background-color: rgb(243, 243, 243);
+    padding: 50px;
+
+}
+.logo img{
+    width:200px;
+    margin:0 auto;
+    text-align: center;
+
+}
+button {
+    color: black;
+    background-color: rgb(25, 233, 188);
+    border: none;
+    text-align: center;
+    align-items: center;
+}
